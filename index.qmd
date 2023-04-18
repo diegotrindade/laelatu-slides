@@ -145,8 +145,6 @@ $ git config
 
 ### Second Step
 
-<br>
-
 #### Personal Access Token (PAT):
 
 -   Go to <https://github.com/settings/tokens> and click "Generate token".
