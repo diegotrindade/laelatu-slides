@@ -164,7 +164,7 @@ usethis::create_github_token()
 
 <br>
 
-#### Paste your PAT into the Git credential store
+#### Run the following line and paste your PAT
 
 ```{r eval=FALSE}
 gitcreds::gitcreds_set()
